@@ -29,6 +29,13 @@
     - Part 4  Deployed Spring
 ```
 
+## Useful links for Api & Database Design
+
+1. :memo: A Real-world Introduction to Finding classes in Object-oriented Programming Languages - [Link](https://medium.com/xebia-engineering/a-real-world-introduction-to-finding-classes-in-object-oriented-programming-languages-612eae35b802)
+2. :memo: Introduction to Database Design - [Link](https://www.datanamic.com/support/lt-dez005-introduction-db-modeling.html)
+3. :memo: Best Practices for Designing a Pragmatic RESTful API - [Link](https://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api)
+
+
 ## Useful links for microservices
 
 1. :memo: Microservices Architecture Guidelines - [Link](https://github.com/justinamiller/Microservices-Architecture-Guidelines)
